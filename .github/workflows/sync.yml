@@ -1,0 +1,35 @@
+name: Sync Events Daily
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # runs daily at 08:00 UTC
+  workflow_dispatch:       # allows manual run
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run sync script
+        run: |
+          python project.py --sync-only
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add events.json
+          git commit -m "Automated events sync" || echo "No changes"
+          git push

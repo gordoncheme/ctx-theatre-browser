@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CTX Live Theatre - Sample Feed</title>
+    <link>https://ctxlivetheatre.com/</link>
+    <description>Sample RSS feed for CS50 testing</description>
+
+    <item>
+      <title>Songs for a New World by Waco Civic Theatre</title>
+      <link>https://ctxlivetheatre.com/productions/20260116-songs-for-a-new-world-by-waco-civic-theat/</link>
+      <description>
+        &lt;p&gt;Jason Robert Brown&amp;rsquo;s powerful and moving song cycle,&amp;nbsp;&lt;strong&gt;Songs for a New World&lt;/strong&gt;...&lt;/p&gt;
+      </description>
+      <pubDate>Thu, 13 Nov 2025 03:23:23 +0000</pubDate>
+      <guid>https://ctxlivetheatre.com/productions/20260116-songs-for-a-new-world-by-waco-civic-theat/</guid>
+      <category>Productions</category>
+    </item>
+
+  </channel>
+</rss>
