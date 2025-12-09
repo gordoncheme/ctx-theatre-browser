@@ -265,7 +265,7 @@
     "days_of_week": "Thursdays-Sundays",
     "venue_name": "Sterling Events Center",
     "venue_address": "6134 U.S. 290 Frontage Road Austin, TX, 78752",
-    "rss_description_html": "<p>&ldquo;<em>When traditions make monsters of men, empires crumble.</em>&ldquo;</p>\n<p>Join us for Shakespeare&rsquo;s tragic tale of power, betrayal, and revenge brought to life in an immersive retelling</p>\n<p>Adapted by Stehanie Crugnola, directed by Brian Hensley</p>\n<p><em><u>NOTICE:</u>&nbsp;</em>This show contains adult themes and simulated acts of violence. Viewer discretion advised. Splash Zones in effect</p>",
+    "rss_description_html": "<p>&ldquo;<em>When traditions make monsters of men, empires crumble.</em>&ldquo;</p>\n<p>Join us for Shakespeare&rsquo;s tragic tale of power, betrayal, and revenge brought to life in an immersive retelling</p>\n<p>Adapted by Stehanie Crugnola, directed by Brian Hensley</p>\n<p><em><u>NOTICE:</u>&nbsp;</em>This show contains adult themes and simulated acts of violence. Viewer discretion advised. Splash Zones in effect</p>\n<p style=\"text-align: center;\"><img src=\"/media/uploads/documents/titus_andronicus_cast.jpeg\" alt=\"\" width=\"700\" height=\"876\"></p>\n<p style=\"text-align: center;\"><img src=\"/media/uploads/documents/titus_andronicus_cast_2026.jpeg\" alt=\"(via The Stage)\" width=\"700\" height=\"876\"></p>",
     "rss_description": "“When traditions make monsters of men, empires crumble.“ Join us for Shakespeare’s tragic tale of power, betrayal, and revenge brought to life in an immersive retelling Adapted by Stehanie Crugnola, directed by Brian Hensley NOTICE: This show contains adult themes and simulated acts of violence. Viewer discretion advised. Splash Zones in effect",
     "html_synopsis": "&ldquo;When traditions make monsters of men, empires crumble.&ldquo;"
   },
@@ -463,5 +463,20 @@
     "rss_description_html": "",
     "rss_description": "When big-city producer Reagan Steele returns to her small hometown in Vermont to film a live holiday romance, she ends up starring in a love story of her own — complete with original songs, over-the-top holiday clichés, and featuring some of Austin’s best talent. And it’s the most fun you’ll have at a Christmas show this year!",
     "html_synopsis": "When big-city producer Reagan Steele returns to her small hometown in Vermont to film a live holiday romance, she ends up starring in a love story of her own — complete with original songs, over-the-top holiday clichés, and featuring some of Austin’s best talent. And it’s the most fun you’ll have at a Christmas show this year!"
+  },
+  "20251213-a-christmas-carol-a-live-radio-play-brazo": {
+    "slug": "20251213-a-christmas-carol-a-live-radio-play-brazo",
+    "url": "https://ctxlivetheatre.com/productions/20251213-a-christmas-carol-a-live-radio-play-brazo/",
+    "title": "A Christmas Carol - a live radio play (Brazos Theatre) by Brazos Theatre of Waco",
+    "category": "Productions",
+    "date_text": "Dec. 13 Saturday",
+    "start_date": "",
+    "end_date": "",
+    "days_of_week": "",
+    "venue_name": "Brazos Theatre Group",
+    "venue_address": "Bosque Square Shopping Center, 7524 Bosque Blvd Suite Q, next to Jazzercise Waco, TX, 76712",
+    "rss_description_html": "<p class=\"p1\">Step back in time... not only to a classic Victorian era holiday tale, but to the Golden Age of Radio. <strong>A Christmas Carol: A Live Radio Play</strong> brings Dickens&rsquo; timeless story to life with vintage sound effects and a full cast performing as if broadcasting in the 1940s.</p>\n<p class=\"p1\">Join us Saturday, December 13 and stay after for a complimentary holiday reception with the cast and crew!</p>\n<p class=\"p2\">&nbsp;</p>",
+    "rss_description": "Step back in time... not only to a classic Victorian era holiday tale, but to the Golden Age of Radio. A Christmas Carol: A Live Radio Play brings Dickens’ timeless story to life with vintage sound effects and a full cast performing as if broadcasting in the 1940s. Join us Saturday, December 13 and stay after for a complimentary holiday reception with the cast and crew!",
+    "html_synopsis": "A Christmas Carol - a live radio play (Brazos Theatre) Brazos Theatre of Waco"
   }
 }
