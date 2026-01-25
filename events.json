@@ -2078,8 +2078,8 @@
     "start_date": "2026-02-20",
     "end_date": "2026-03-08",
     "days_of_week": "",
-    "venue_name": "108 Blue Star",
-    "venue_address": "108 Blue Star San Antonio, TX, 78204",
+    "venue_name": "Gaslight Baker Theatre",
+    "venue_address": "216 South Main Street Lockhart, TX, 78644",
     "rss_description_html": "<p>Step into the council chambers of Big Cherry, a small town with big secrets, where civic pride meets civic panic and every polite smile hides a sharper truth. Tracy Letts&rsquo; Tony-nominated dark comedy pulls you into a city council meeting that starts routine and veers into chaos as missing members, questionable traditions, and fiercely guarded local &ldquo;history&rdquo; collide. The Minutes is fast, sharp, hilarious, and unsettling, a satire that punches upward and exposes how far people will go to protect the stories they choose to believe.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/media/uploads/documents/the_minutes_gbt_2026_cast.jpg\" alt=\"(via GBT)\" width=\"700\" height=\"486\"></p>",
     "rss_description": "Step into the council chambers of Big Cherry, a small town with big secrets, where civic pride meets civic panic and every polite smile hides a sharper truth. Tracy Letts’ Tony-nominated dark comedy pulls you into a city council meeting that starts routine and veers into chaos as missing members, questionable traditions, and fiercely guarded local “history” collide. The Minutes is fast, sharp, hilarious, and unsettling, a satire that punches upward and exposes how far people will go to protect the stories they choose to believe.",
     "html_synopsis": "Step into the council chambers of Big Cherry, a small town with big secrets, where civic pride meets civic panic and every polite smile hides a sharper truth. Tracy Letts&rsquo; Tony-nominated dark comedy pulls you into a city council meeting that starts routine and veers into chaos as missing members, questionable traditions, and fiercely guarded local &ldquo;history&rdquo; collide. The Minutes is fast, sharp, hilarious, and unsettling, a satire that punches upward and exposes how far people will go to protect the stories they choose to believe."
@@ -2263,5 +2263,20 @@
     "rss_description_html": "<p>Set in the dark, fog-choked streets of 19th-century London, <strong>Sweeney Todd </strong>tells the chilling tale of an unjustly exiled barber who returns to seek bloody vengeance against the corrupt judge who destroyed his life. With the help of the practical and delightfully wicked pie shop owner, Mrs. Lovett, Todd opens a new barbershop above her crumbling establishment&mdash;and soon discovers a sinister solution to both his need for retribution and Mrs. Lovett's perpetually short supply of meat.</p>\n<p>Experience Stephen Sondheim's masterpiece, a gripping and darkly comedic musical thriller that has captivated audiences for decades. This musical features one of the most magnificent and complex scores ever written for the stage, weaving together drama, suspense, and unexpected humor. It is an electrifying journey into obsession and madness that has cemented its place as a cornerstone of modern musical theatre.</p>\n<p><strong>Audience Advisory: Mature Content</strong></p>\n<p>Please be advised that<strong> Sweeney Todd: The Demon Barber of Fleet Street</strong> contains mature themes, stylized violence, and moments of intense psychological tension and horror.</p>\n<p>This production is not suitable for small children. We recommend this show for audiences aged 14 and older. Parental discretion is strongly advised for all patrons.</p>",
     "rss_description": "Set in the dark, fog-choked streets of 19th-century London, Sweeney Todd tells the chilling tale of an unjustly exiled barber who returns to seek bloody vengeance against the corrupt judge who destroyed his life. With the help of the practical and delightfully wicked pie shop owner, Mrs. Lovett, Todd opens a new barbershop above her crumbling establishment—and soon discovers a sinister solution to both his need for retribution and Mrs. Lovett's perpetually short supply of meat. Experience Stephen Sondheim's masterpiece, a gripping and darkly comedic musical thriller that has captivated audiences for decades. This musical features one of the most magnificent and complex scores ever written for the stage, weaving together drama, suspense, and unexpected humor. It is an electrifying journey into obsession and madness that has cemented its place as a cornerstone of modern musical theatre. Audience Advisory: Mature Content Please be advised that Sweeney Todd: The Demon Barber of Fleet Street contains mature themes, stylized violence, and moments of intense psychological tension and horror. This production is not suitable for small children. We recommend this show for audiences aged 14 and older. Parental discretion is strongly advised for all patrons.",
     "html_synopsis": "Set in the dark, fog-choked streets of 19th-century London, Sweeney Todd tells the chilling tale of an unjustly exiled barber who returns to seek bloody vengeance against the corrupt judge who destroyed his life. With the help of the practical and delightfully wicked pie shop owner, Mrs. Lovett, Todd opens a new barbershop above her crumbling establishment&mdash;and soon discovers a sinister solution to both his need for retribution and Mrs. Lovett's perpetually short supply of meat."
+  },
+  "20260120-six-the-musical-by-touring-company": {
+    "slug": "20260120-six-the-musical-by-touring-company",
+    "url": "https://ctxlivetheatre.com/productions/20260120-six-the-musical-by-touring-company/",
+    "title": "SIX, the musical by touring company",
+    "category": "Productions",
+    "date_text": "Jan. 20 - Jan. 25",
+    "start_date": "2026-01-20",
+    "end_date": "2026-01-25",
+    "days_of_week": "",
+    "venue_name": "Bass Concert Hall",
+    "venue_address": "2350 Robert Dedman Drive Austin, TX, 78712",
+    "rss_description_html": "",
+    "rss_description": "",
+    "html_synopsis": "From Tudor Queens to Pop Icons, the SIX wives of Henry VIII take the microphone to remix five hundred years of historical heartbreak into a Euphoric Celebration of 21st century girl power! This new original musical is the global sensation that everyone is losing their head over!"
   }
 }
