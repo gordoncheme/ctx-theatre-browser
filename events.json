@@ -4618,5 +4618,35 @@
     "rss_description_html": "<section class=\"detail-content__description event-page-description\">\n<div>\n<p>Silent House Theatre Co. proudly presents&nbsp;<strong><em>J</em>esus Christ Superstar</strong><em>,</em>&nbsp;the groundbreaking rock opera by Andrew Lloyd Webber and Tim Rice. Set against a driving contemporary score, this electrifying musical reimagines the final days of Jesus through the eyes of Judas Iscariot, exploring fame, faith, and the human cost of revolution.</p>\n<p>With powerhouse vocals, dynamic choreography, and an intimate, immersive staging,&nbsp;<strong>Jesus Christ Superstar</strong>&nbsp;invites audiences to experience a legendary story like never before.&nbsp;</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/media/uploads/documents/screenshot_2026-05-04_at_16.07.50.png\" alt=\"(via SH)\" width=\"500\" height=\"802\"></p>\n</div>\n</section>\n<section class=\"detail-content__location\">\n<h3>&nbsp;</h3>\n<p>&nbsp;</p>\n</section>",
     "rss_description": "Silent House Theatre Co. proudly presents Jesus Christ Superstar, the groundbreaking rock opera by Andrew Lloyd Webber and Tim Rice. Set against a driving contemporary score, this electrifying musical reimagines the final days of Jesus through the eyes of Judas Iscariot, exploring fame, faith, and the human cost of revolution. With powerhouse vocals, dynamic choreography, and an intimate, immersive staging, Jesus Christ Superstar invites audiences to experience a legendary story like never before.",
     "html_synopsis": "Silent House Theatre Co. proudly presents&nbsp;Jesus Christ Superstar,&nbsp;the groundbreaking rock opera by Andrew Lloyd Webber and Tim Rice. Set against a driving contemporary score, this electrifying musical reimagines the final days of Jesus through the eyes of Judas Iscariot, exploring fame, faith, and the human cost of revolution."
+  },
+  "20260827-aye-no-by-teatro-audaz": {
+    "slug": "20260827-aye-no-by-teatro-audaz",
+    "url": "https://ctxlivetheatre.com/productions/20260827-aye-no-by-teatro-audaz/",
+    "title": "Aye, No! by Teatro Audaz",
+    "category": "Productions",
+    "date_text": "Aug. 27 - Aug. 30 Thursday-Sunday",
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-30",
+    "days_of_week": "",
+    "venue_name": "unspecified in San Antonio",
+    "venue_address": "not given San Antonio, TX, 78200",
+    "rss_description_html": "",
+    "rss_description": "",
+    "html_synopsis": "Aye, No! is sure to touch audiences of all ages. the action takes place in a small border town where young Alicia comes home from college with a &ldquo;friend&rdquo; for her family to meet. The trouble begins when her loving grandma and well-intentioned yet nosey aunts assume that Alicia is bringing home a boyfriend or fianc&eacute;. Alicia, wanting her family&rsquo;s acceptance and fearing ancient Mexican magic, turns to her three fairy-drag-queen friends for guidance."
+  },
+  "20260607-borders-by-teatro-audaz": {
+    "slug": "20260607-borders-by-teatro-audaz",
+    "url": "https://ctxlivetheatre.com/productions/20260607-borders-by-teatro-audaz/",
+    "title": "Borders by Teatro Audaz",
+    "category": "Productions",
+    "date_text": "Jun. 07 Sunday",
+    "start_date": "",
+    "end_date": "",
+    "days_of_week": "",
+    "venue_name": "unspecified in San Antonio",
+    "venue_address": "not given San Antonio, TX, 78200",
+    "rss_description_html": "<p>Beyond borders, beyond fear -- hope is our last chance.</p>",
+    "rss_description": "Beyond borders, beyond fear -- hope is our last chance.",
+    "html_synopsis": "Beyond borders, beyond fear -- hope is our last chance."
   }
 }
