@@ -6304,9 +6304,9 @@
     "url": "http://ctxlivetheatre.com/productions/20260828-dark-magic-for-dark-times-by-jump-start-p/",
     "title": "Dark Magic for Dark Times by Jump-Start Performance Company",
     "category": "Productions",
-    "date_text": "Aug. 28 - Aug. 06",
+    "date_text": "Aug. 28 - Sep. 06",
     "start_date": "2026-08-28",
-    "end_date": "2026-08-06",
+    "end_date": "2026-09-06",
     "days_of_week": "",
     "venue_name": "Jump-Start Performance Company",
     "venue_address": "710 Frederickburg Rd San Antonio, TX, 78201",
@@ -6643,5 +6643,35 @@
     "rss_description_html": "",
     "rss_description": "",
     "html_synopsis": "Joe Keller and Steve Deever, partners in a machine shop during World War II, turned out defective airplane parts, causing the deaths of many men. Deever was sent to prison while Keller escaped punishment and went back to business, making himself very wealthy in the ensuing years. A love affair between Keller&rsquo;s son, Chris, and Ann Deever, Steve&rsquo;s daughter; the bitterness of George Deever, who returns from the war to find his father in prison and his father&rsquo;s partner free; and the reaction of Chris Keller to his father&rsquo;s guilt escalate toward a climax of electrifying intensity."
+  },
+  "20260711-the-wizard-of-oz-by-chambers-theatre-comp": {
+    "slug": "20260711-the-wizard-of-oz-by-chambers-theatre-comp",
+    "url": "http://ctxlivetheatre.com/productions/20260711-the-wizard-of-oz-by-chambers-theatre-comp/",
+    "title": "The Wizard of Oz by Chambers Theatre Company",
+    "category": "Productions",
+    "date_text": "Jul. 11 - Jul. 26 Saturdays-Sundays",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-26",
+    "days_of_week": "",
+    "venue_name": "Buda Amphitheatre in CIty Park",
+    "venue_address": "204 San Antonio St Buda, TX, 78610",
+    "rss_description_html": "<p style=\"text-align: center;\"><img src=\"https://dqdsmcnju0jci.cloudfront.net/filer_public/94/7b/947b58c6-83d4-4f23-8f7f-65b877c86281/wizard_oz_buda_2026.jpg\" alt=\"(via Chambers)\" width=\"750\" height=\"500\"></p>",
+    "rss_description": "",
+    "html_synopsis": "The Wizard of Oz by based on the eMGM film of the book Chambers Theatre Company"
+  },
+  "20260828-rise-and-fall-by-overtime-theater": {
+    "slug": "20260828-rise-and-fall-by-overtime-theater",
+    "url": "http://ctxlivetheatre.com/productions/20260828-rise-and-fall-by-overtime-theater/",
+    "title": "Rise and Fall by Overtime Theater",
+    "category": "Productions",
+    "date_text": "Aug. 28 - Sep. 12",
+    "start_date": "2026-08-28",
+    "end_date": "2026-09-12",
+    "days_of_week": "",
+    "venue_name": "Overtime Theater",
+    "venue_address": "4335 Vance Jackson Rd, #103-104 San Antonio, TX, 78230",
+    "rss_description_html": "",
+    "rss_description": "",
+    "html_synopsis": "Rise and Fall by Michael David Burger-Song Overtime Theater"
   }
 }
