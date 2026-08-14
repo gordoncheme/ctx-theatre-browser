@@ -7883,8 +7883,8 @@
     "start_date": "2027-03-04",
     "end_date": "2027-03-07",
     "days_of_week": "Thursday-Sunday",
-    "venue_name": "Woodlawn Pointe Community Center",
-    "venue_address": "702 Donaldson Avenue (directly opposite Jefferson High School) San Antonio, TX, 78201",
+    "venue_name": "unspecified in San Antonio",
+    "venue_address": "not given San Antonio, TX, 78200",
     "rss_description_html": "",
     "rss_description": "",
     "html_synopsis": "Wikipedia:&nbsp;"
@@ -7933,5 +7933,20 @@
     "rss_description_html": "<p>Better a witty fool than a foolish wit.<span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\"><img class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tea/2/16/1f3bb.png\" alt=\"🎻\" width=\"16\" height=\"16\"></span> <span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\"><img class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f3ab.png\" alt=\"🎫\" width=\"16\" height=\"16\"></span><br class=\"html-br\">Thank you Laredo for giving us your talent and artistry this weekend!<br class=\"html-br\"><br class=\"html-br\">A Class on Stage&reg; Production</p>",
     "rss_description": "Better a witty fool than a foolish wit. Thank you Laredo for giving us your talent and artistry this weekend!A Class on Stage® Production",
     "html_synopsis": "Better a witty fool than a foolish wit. Thank you Laredo for giving us your talent and artistry this weekend!A Class on Stage&reg; Production"
+  },
+  "20260924-the-making-of-a-great-moment-by-hyde-park": {
+    "slug": "20260924-the-making-of-a-great-moment-by-hyde-park",
+    "url": "http://ctxlivetheatre.com/productions/20260924-the-making-of-a-great-moment-by-hyde-park/",
+    "title": "The Making of a Great Moment by Hyde Park Theatre",
+    "category": "Productions",
+    "date_text": "Sep. 24 - Oct. 24 Thursdays-Saturdays",
+    "start_date": "2026-09-24",
+    "end_date": "2026-10-24",
+    "days_of_week": "",
+    "venue_name": "Hyde Park Theatre",
+    "venue_address": "511 West 43rd Street Austin, TX, 78751",
+    "rss_description_html": "<p>In this hilarious play, two members of the \"Victoria Canada Bicycle Theatre Company\" aspire to change people&rsquo;s lives with the power of theater. The show runs September 24 - October 24 at Hyde Park Theatre.</p>\n<div class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" tabindex=\"0\" role=\"button\">Directed by Mark Pickell and featuring two comic legends of Austin theater, Lee Eddy and Jeff Mills.</div>",
+    "rss_description": "In this hilarious play, two members of the \"Victoria Canada Bicycle Theatre Company\" aspire to change people’s lives with the power of theater. The show runs September 24 - October 24 at Hyde Park Theatre. Directed by Mark Pickell and featuring two comic legends of Austin theater, Lee Eddy and Jeff Mills.",
+    "html_synopsis": "In this hilarious play, two members of the \"Victoria Canada Bicycle Theatre Company\" aspire to change people&rsquo;s lives with the power of theater. The show runs September 24 - October 24 at Hyde Park Theatre."
   }
 }
