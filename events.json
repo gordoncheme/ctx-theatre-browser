@@ -4264,15 +4264,15 @@
     "url": "http://ctxlivetheatre.com/productions/20261204-every-christmas-story-ever-told-and-then-/",
     "title": "Every Christmas Story Ever Told - And Then Some! by Playhouse 2000",
     "category": "Productions",
-    "date_text": "Jan. 16 - Jan. 24, 2026 Fridays-Saturdays",
-    "start_date": "2026-01-16",
-    "end_date": "2026-01-24",
-    "days_of_week": "Fridays-Saturdays",
-    "venue_name": "Waco Civic Theatre",
-    "venue_address": "1517 Lake Air Drive Waco, TX, 76717",
+    "date_text": "Dec. 04 - Dec. 20 Fridays-Sundays",
+    "start_date": "2026-12-04",
+    "end_date": "2026-12-20",
+    "days_of_week": "",
+    "venue_name": "VK Garage Theatre",
+    "venue_address": "at Cailloux Cultural Center 305 Washington Street Kerrville, TX, 78028",
     "rss_description_html": "<p>&nbsp;</p>\n<p>In this laugh-out-loud send up of traditional holiday fare, a small band of talented actors decide to tell EVERY Christmas story in one night &ndash; plus celebrating Christmas traditions from around the world and even offering a mashup of every carol ever sung.</p>\n<p>While humor is the aim, the show resonates with love and respect for the ideals and traditions of the most important holiday in the English calendar.&nbsp; It&rsquo;s a fun addition to any family&rsquo;s holiday season.</p>\n<p>&nbsp;</p>",
     "rss_description": "In this laugh-out-loud send up of traditional holiday fare, a small band of talented actors decide to tell EVERY Christmas story in one night – plus celebrating Christmas traditions from around the world and even offering a mashup of every carol ever sung. While humor is the aim, the show resonates with love and respect for the ideals and traditions of the most important holiday in the English calendar. It’s a fun addition to any family’s holiday season.",
-    "html_synopsis": "Jason Robert Brown’s powerful and moving song cycle,&nbsp;Songs for a New World — a stunning collection of stories about life, love, and the moments that define us. From the deck of a Spanish sailing ship to the top of a New York penthouse, each song captures a pivotal “new world” moment — when decisions are made, dreams are tested, and hearts are laid bare. With unforgettable music and soul-stirring lyrics, this production is an incredible showcase for passionate, dynamic vocalists and storytellers."
+    "html_synopsis": "&nbsp;"
   },
   "20260709-once-upon-a-mattress-by-coll-street-playe": {
     "slug": "20260709-once-upon-a-mattress-by-coll-street-playe",
@@ -10000,8 +10000,8 @@
     "days_of_week": "",
     "venue_name": "private residence",
     "venue_address": "to be revealed Austin, TX, 78700",
-    "rss_description_html": "<p>&nbsp;</p>\n<p>Set against the growing shadow of World War II, <em>Watch on the Rhine </em>follows the Farrelly family as they are thrust into a new world order when a morally bankrupt houseguest recognizes their son-in-law as a leader of the German anti-fascist resistance.</p>\n<p>As tensions within the household escalate, the family must confront the realities of a world increasingly shaped by fascism, political violence, and moral compromise. Hellman&rsquo;s powerful drama explores the personal cost of resistance and asks what ordinary people are willing to risk when the forces threatening their freedom arrive at their doorstep.</p>\n<p>Feral Freeway presents a site-specific production of Lillian Hellman&rsquo;s drama <em>Watch on the Rhine</em> staged in a living room near you in Austin, Texas from November 11-22.</p>\n<p><em>Run time: approximately 2hrs 30min with two 10min intermissions</em></p>",
-    "rss_description": "Set against the growing shadow of World War II, Watch on the Rhine follows the Farrelly family as they are thrust into a new world order when a morally bankrupt houseguest recognizes their son-in-law as a leader of the German anti-fascist resistance. As tensions within the household escalate, the family must confront the realities of a world increasingly shaped by fascism, political violence, and moral compromise. Hellman’s powerful drama explores the personal cost of resistance and asks what ordinary people are willing to risk when the forces threatening their freedom arrive at their doorstep. Feral Freeway presents a site-specific production of Lillian Hellman’s drama Watch on the Rhine staged in a living room near you in Austin, Texas from November 11-22. Run time: approximately 2hrs 30min with two 10min intermissions",
+    "rss_description_html": "<p>&nbsp;</p>\n<p>Set against the growing shadow of World War II, <strong>Watch on the Rhine </strong>follows the Farrelly family as they are thrust into a new world order when a morally bankrupt houseguest recognizes their son-in-law as a leader of the German anti-fascist resistance.</p>\n<p>As tensions within the household escalate, the family must confront the realities of a world increasingly shaped by fascism, political violence, and moral compromise. Hellman&rsquo;s powerful drama explores the personal cost of resistance and asks what ordinary people are willing to risk when the forces threatening their freedom arrive at their doorstep.</p>\n<p>Directed by Charles Dennis.</p>\n<p>Feral Freeway presents a site-specific production of Lillian Hellman&rsquo;s drama <strong>Watch on the Rhine</strong> staged in a living room near you in Austin, Texas from November 11-22.</p>\n<p><em>Run time: approximately 2 hrs 30 min with two 10 min intermissions</em></p>",
+    "rss_description": "Set against the growing shadow of World War II, Watch on the Rhine follows the Farrelly family as they are thrust into a new world order when a morally bankrupt houseguest recognizes their son-in-law as a leader of the German anti-fascist resistance. As tensions within the household escalate, the family must confront the realities of a world increasingly shaped by fascism, political violence, and moral compromise. Hellman’s powerful drama explores the personal cost of resistance and asks what ordinary people are willing to risk when the forces threatening their freedom arrive at their doorstep. Directed by Charles Dennis. Feral Freeway presents a site-specific production of Lillian Hellman’s drama Watch on the Rhine staged in a living room near you in Austin, Texas from November 11-22. Run time: approximately 2 hrs 30 min with two 10 min intermissions",
     "html_synopsis": "&nbsp;"
   },
   "20261203-las-nuevas-tamaleras-by-las-nuevas-tamale": {
@@ -10273,5 +10273,35 @@
     "rss_description_html": "",
     "rss_description": "",
     "html_synopsis": "Rude Mechs invites you to join us for a very first draft of a first draft of a new play based on the production we mounted of Thornton Wilder's Our Town back in 2024."
+  },
+  "20261205-every-christmas-story-ever-told-and-then-": {
+    "slug": "20261205-every-christmas-story-ever-told-and-then-",
+    "url": "http://ctxlivetheatre.com/productions/20261205-every-christmas-story-ever-told-and-then-/",
+    "title": "Every Christmas Story Ever Told - And Then Some! by Penfold Theatre Company",
+    "category": "Productions",
+    "date_text": "Dec. 05 - Dec. 27 Wednesdays-Sundays",
+    "start_date": "2026-12-05",
+    "end_date": "2026-12-27",
+    "days_of_week": "",
+    "venue_name": "Penfold Theatre",
+    "venue_address": "2120 North Mays Street Rock Creek Plaza Round Rock, TX, 78664",
+    "rss_description_html": "<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><img style=\"float: right;\" src=\"https://dqdsmcnju0jci.cloudfront.net/filer_public/46/d5/46d533a0-e8c7-4ba4-807f-4e5eaa37e76f/penfold_every_christmas_story_2026_adj.jpg\" alt=\"Penfold Every Christmas Story 2026 adj.jpg\" width=\"350\" height=\"350\">The play begins as an actor begins a performance of Charles Dickens&rsquo;&nbsp;<em>A Christmas Carol</em> and is joined by two castmates who refuse to join in as they have performed <em>A Christmas Carol </em>too many times in their career already. They rebel and decide to present every Christmas story ever told instead. Over 90 minutes, these three comedic actors portray as many holiday stories and characters as they can remember. Using wild costumes, special effects, and their comedy skills, they take a ride through well-known classics, from <em>The Grinch Who Stole Christmas</em> to <em><span lang=\"EN\">Rudolph the Red-Nosed Reindeer</span></em> &ndash; and so much more.</p>\n<p class=\"MsoNormal\">Written by Michael Carleton, James FitzGerald, and John K. Alvarez.</p>\n<p class=\"MsoNormal\">Original Music by Will Knapp</p>\n<p class=\"MsoNormal\">Age Recommendation: Rated PG-13. Contains fast-paced holiday satire, adult humor, mild profanity, comic innuendo, alcohol/drug references, and voluntary audience participation.</p>\n<p class=\"MsoNormal\">Run Time: Approximately ninety minutes with one intermission.</p>\n<p class=\"MsoNormal\">Information on <strong>Every Christmas Story Ever Told (And Then Some!)<em> </em></strong>is available at <a href=\"https://www.penfoldtheatre.org/event/every-christmas-story-ever-told-and-then-some\">penfoldtheatre.org/event/every-christmas-story-ever-told-and-then-some</a>.</p>",
+    "rss_description": "The play begins as an actor begins a performance of Charles Dickens’ A Christmas Carol and is joined by two castmates who refuse to join in as they have performed A Christmas Carol too many times in their career already. They rebel and decide to present every Christmas story ever told instead. Over 90 minutes, these three comedic actors portray as many holiday stories and characters as they can remember. Using wild costumes, special effects, and their comedy skills, they take a ride through well-known classics, from The Grinch Who Stole Christmas to Rudolph the Red-Nosed Reindeer – and so much more. Written by Michael Carleton, James FitzGerald, and John K. Alvarez. Original Music by Will Knapp Age Recommendation: Rated PG-13. Contains fast-paced holiday satire, adult humor, mild profanity, comic innuendo, alcohol/drug references, and voluntary audience participation. Run Time: Approximately ninety minutes with one intermission. Information on Every Christmas Story Ever Told (And Then Some!) is available at penfoldtheatre.org/event/every-christmas-story-ever-told-and-then-some.",
+    "html_synopsis": "Every Christmas Story Ever Told - And Then Some! by John K. Alvarez, Michael Carleton, James FitzGerald Penfold Theatre Company"
+  },
+  "20261120-a-christmas-carol-the-musical-by-harbor-p": {
+    "slug": "20261120-a-christmas-carol-the-musical-by-harbor-p",
+    "url": "http://ctxlivetheatre.com/productions/20261120-a-christmas-carol-the-musical-by-harbor-p/",
+    "title": "A Christmas Carol, the musical by Harbor Playhouse",
+    "category": "Productions",
+    "date_text": "Nov. 20 - Dec. 20 Fridays-Sundays",
+    "start_date": "2026-11-20",
+    "end_date": "2026-12-20",
+    "days_of_week": "",
+    "venue_name": "Harbor Playhouse",
+    "venue_address": "1804 N. Chaparral Street Corpus Christi, TX, 78401",
+    "rss_description_html": "<div class=\"xdj266r x14z9mp xat24cr x1lziwak x1vvkbs x126k92a\">\n<div dir=\"auto\">Everyone's favorite holiday tradition is less than a month away! Join us for our 2026 production of A Christmas Carol, onstage November 20th through December 20th <span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\"><img class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta6/2/16/1f384.png\" alt=\"🎄\" width=\"16\" height=\"16\"></span><span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\"><img class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta2/2/16/1f3a9.png\" alt=\"🎩\" width=\"16\" height=\"16\"></span><span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\"><img class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taf/2/16/2744.png\" alt=\"❄️\" width=\"16\" height=\"16\"></span></div>\n</div>\n<div class=\"x14z9mp xat24cr x1lziwak x1vvkbs xtlvy1s x126k92a\">&nbsp;</div>\n<div class=\"x14z9mp xat24cr x1lziwak x1vvkbs xtlvy1s x126k92a\">\n<div dir=\"auto\">&nbsp;</div>\n</div>",
+    "rss_description": "Everyone's favorite holiday tradition is less than a month away! Join us for our 2026 production of A Christmas Carol, onstage November 20th through December 20th",
+    "html_synopsis": "A Christmas Carol, the musical by Allen Menken, Lynn Ahrens, Mark Okrent Harbor Playhouse"
   }
 }
